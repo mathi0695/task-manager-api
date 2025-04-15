@@ -239,4 +239,12 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Your Name
+Mathiarasan.S using AI.
+
+NOTE: this entire project is build using single prompt with AI. 
+I havent coded sngle line in this project, even postman collections are created by model itself.
+
+Then why should you hire me?
+becuase I am a experienced software engineer who can deliver working production grade products in shorter span of time leveraging AI models.
+
+Hireme if you want results faster and in good production grade quality.
